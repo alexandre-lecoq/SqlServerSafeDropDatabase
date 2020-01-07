@@ -1,4 +1,4 @@
-# SqlServerSafeDropDatabase
+# Sql Server Safe Drop Database
 
 This is a procedure to drop a database.
 Out of life’s school of war — Droping a database is not always straightforward.
